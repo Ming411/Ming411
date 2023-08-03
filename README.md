@@ -5,4 +5,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ming411/Ming411/output/github-contribution-grid-snake.svg">
 </picture>
 
-⭐️ From [ccc`Blog](https://ming411.github.io)
+<!-- - ⭐️ From [ccc`Blog](https://ming411.github.io) -->
+⭐️ From [ccc`Blog](https://ccc-blog.vercel.app/)
